@@ -7,6 +7,8 @@
 + ### <font size=5> what will i do next week?</font>
 <font size=4>I will presist in playing around with Natasha's code.</font>
 
++ ### <font size=5> what will i do next week?</font>
+<font size=4>I will presist in playing around with Natasha's code.</font>
 
 + ### <font size=5> what will i mention in this 'report'?</font>
 <font size=4>Explain the main function and aim of the files by talking about the input, output and a little bit more about process</font>
